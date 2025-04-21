@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a Hosting
 - 📫 How to reach me: On mail - ytfambos@gmail.com
 - 😄 Pronouns: Friendly
-- ⚡ Fun fact: Funny and ready to do everythink
+- ⚡ Fun fact: Funny and ready to do everything
 
 <!---
 fambosyt/fambosyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
